@@ -1,0 +1,6 @@
+#database.yml
+adapter: postgresql
+database: feeling_analyzer
+username: username
+password: password
+host:      localhost
